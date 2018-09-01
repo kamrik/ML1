@@ -1,11 +1,11 @@
-# Saying hello
+# Say hello
 
-def greet():
+def greet(name):
     """ Greet the students!
     """
-    greeting = "Hello COMP 3122 students!" 
-    print(greeting)
+    print("Hello, %s!" % name)
 
-greet()
+name = "COMP 3122 students" 
+greet(name)
 
 
