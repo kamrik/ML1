@@ -17,3 +17,8 @@ Python Data Science Handbook: Essential Tools for Working with Data (by Jake Van
    * [Lecture notebook - Sept 6th](lectures/01_week.ipynb)
    * Recommended Video: [Making data mean more through storytelling](https://www.youtube.com/watch?v=6xsvGYIxJok) by Ben Wellington at TEDxBroadway (15 min)
    
+## Week 2
+ * [Lab notebook - Sept 11](lectures/02_week_lab.ipynb)
+ * [numpy exercise](exercises/numpy_basics.ipynb)
+ * [plotting exercise](exercises/numpy_basics.ipynb)
+   
