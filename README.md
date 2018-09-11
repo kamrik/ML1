@@ -20,5 +20,5 @@ Python Data Science Handbook: Essential Tools for Working with Data (by Jake Van
 ## Week 2
  * [Lab notebook - Sept 11](lectures/02_week_lab.ipynb)
  * [numpy exercise](exercises/numpy_basics.ipynb)
- * [plotting exercise](exercises/numpy_basics.ipynb)
+ * [plotting exercise](exercises/plotting_basics.ipynb)
    
