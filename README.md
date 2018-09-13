@@ -18,11 +18,15 @@ Python Data Science Handbook: Essential Tools for Working with Data (by Jake Van
    * Recommended Video: [Making data mean more through storytelling](https://www.youtube.com/watch?v=6xsvGYIxJok) by Ben Wellington at TEDxBroadway (15 min)
    
 ## Week 2
- * [Lab notebook - Sept 11](lectures/02_week_lab.ipynb)
- * [numpy exercise](exercises/numpy_basics.ipynb)
- * A [playlist of several good short videos introducing different types of plots with matplotlib](https://www.youtube.com/watch?v=zl5qPnqps8M&index=2&list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl) 
+ * Lab - Sept 11
+   * [Lab notebook - Sept 11](lectures/02_week_lab.ipynb)
+   * [numpy exercise](exercises/numpy_basics.ipynb)
+   * A [playlist of several good short videos introducing different types of plots with matplotlib](https://www.youtube.com/watch?v=zl5qPnqps8M&index=2&list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl) 
 This link skips the first video in the playlist because it talks about installation and you already have matplotlib installed via Anaconda.
- * [Basic plotting tutorial on matplotlib website](https://matplotlib.org/users/pyplot_tutorial.html)
- * Recommended [plotting exercise](exercises/plotting_basics.ipynb)
-
+   * [Basic plotting tutorial on matplotlib website](https://matplotlib.org/users/pyplot_tutorial.html)
+   * Recommended [plotting exercise](exercises/plotting_basics.ipynb)
+ * Lecture - Sept 13
+   * [Slides](lectures/02_week.ipynb) (not too many of them, most of the lecture is live / whiteboard) 
+   * [Microsoft Whiteboard link](https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtL2YzYzZmYzA1YzAxNDRlZDU4YjE1NGIxOTNhNDVhNGU0X0JCQTcxNzYyLTEyRTAtNDJFMS1CMzI0LTVCMTMxRjQyNEUzRA==) (experimental)
+ 
    
