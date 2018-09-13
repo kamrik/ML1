@@ -29,5 +29,6 @@ This link skips the first video in the playlist because it talks about installat
    * [Slides](lectures/02_week.ipynb) (not too many of them, most of the lecture is live / whiteboard) 
    * [Whiteboard screenshot](lectures/02_week_whiteboard.png) (png image, for full resolution click "Download" above the image)
    * [IPython transcript](lectures/02_week_ipython_transcript.py) (What the instrucor was typing - no output. Not usefully runnable as a single Python file)
+   * [Facts and Myths about Python names and values](https://www.youtube.com/watch?v=_AEJHKGk9ns) - by Ned Batchelder at PyCon 2015 (video, 25min)
  
-   
+  
