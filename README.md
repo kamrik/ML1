@@ -27,6 +27,7 @@ This link skips the first video in the playlist because it talks about installat
    * Recommended [plotting exercise](exercises/plotting_basics.ipynb)
  * Lecture - Sept 13
    * [Slides](lectures/02_week.ipynb) (not too many of them, most of the lecture is live / whiteboard) 
-   * [Microsoft Whiteboard link](https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtL2YzYzZmYzA1YzAxNDRlZDU4YjE1NGIxOTNhNDVhNGU0X0JCQTcxNzYyLTEyRTAtNDJFMS1CMzI0LTVCMTMxRjQyNEUzRA==) (experimental)
+   * [Whiteboard screenshot](lectures/02_week_whiteboard.png) (png image, for full resolution click "Download" above the image)
+   * [IPython transcript](lectures/02_week_ipython_transcript.py) (What the instrucor was typing - no output. Not usefully runnable as a single Python file)
  
    
