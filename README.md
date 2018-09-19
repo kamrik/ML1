@@ -21,7 +21,7 @@ Python Data Science Handbook: Essential Tools for Working with Data (by Jake Van
  * Lab - Sept 11
    * Lab exercise - [exercises/numpy_basics.ipynb](exercises/numpy_basics.ipynb)
    * [Slides](lectures/02_week_lab.ipynb)
-   * 
+   * NumPy quick reference: https://github.com/juliangaal/python-cheat-sheet
    * A [playlist of several good short videos introducing different types of plots with matplotlib](https://www.youtube.com/watch?v=zl5qPnqps8M&index=2&list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl) 
 This link skips the first video in the playlist because it talks about installation and you already have matplotlib installed via Anaconda.
    * [Basic plotting tutorial on matplotlib website](https://matplotlib.org/users/pyplot_tutorial.html)
