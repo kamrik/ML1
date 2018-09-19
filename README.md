@@ -19,12 +19,12 @@ Python Data Science Handbook: Essential Tools for Working with Data (by Jake Van
    
 ## Week 2
  * Lab - Sept 11
-   * [Lab notebook - Sept 11](lectures/02_week_lab.ipynb)
-   * [numpy exercise](exercises/numpy_basics.ipynb)
+   * Lab exercise - [exercises/numpy_basics.ipynb](exercises/numpy_basics.ipynb)
+   * [Slides](lectures/02_week_lab.ipynb)
+   * 
    * A [playlist of several good short videos introducing different types of plots with matplotlib](https://www.youtube.com/watch?v=zl5qPnqps8M&index=2&list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl) 
 This link skips the first video in the playlist because it talks about installation and you already have matplotlib installed via Anaconda.
    * [Basic plotting tutorial on matplotlib website](https://matplotlib.org/users/pyplot_tutorial.html)
-   * Recommended [plotting exercise](exercises/plotting_basics.ipynb)
  * Lecture - Sept 13
    * [Slides](lectures/02_week.ipynb) (not too many of them, most of the lecture is live / whiteboard) 
    * [Whiteboard screenshot](lectures/02_week_whiteboard.png) (png image, for full resolution click "Download" above the image)
@@ -34,6 +34,7 @@ This link skips the first video in the playlist because it talks about installat
 ## Week 3
  * Lab - Sept 18
    * Lab exercise - [exercises/plotting_basics.ipynb](exercises/plotting_basics.ipynb) (it uses [exercises/OshawaWeather2016.csv](exercises/OshawaWeather2016.csv))
+   * [Slides](lectures/03_week_lab.ipynb)
  * Home reading / exercise
    * [Basic Pandas tutorial](https://www.wintellect.com/using-pandas-to-analyze-sales-data/), to follow along download OfficeSupplies.csv file [here](https://www.superdatascience.com/tableau/)
  
