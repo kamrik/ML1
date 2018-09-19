@@ -32,7 +32,9 @@ This link skips the first video in the playlist because it talks about installat
    * [Facts and Myths about Python names and values](https://www.youtube.com/watch?v=_AEJHKGk9ns) - by Ned Batchelder at PyCon 2015 (video, 25min)
    
 ## Week 3
- * Pandas tutorial: https://www.wintellect.com/using-pandas-to-analyze-sales-data/
-    * Download OfficeSupplies.csv file here: https://www.superdatascience.com/tableau/
+ * Lab - Sept 18
+   * Lab exercise - [exercises/plotting_basics.ipynb](exercises/plotting_basics.ipynb) (it uses [exercises/OshawaWeather2016.csv](exercises/OshawaWeather2016.csv))
+ * Home reading / exercise
+   * [Basic Pandas tutorial](https://www.wintellect.com/using-pandas-to-analyze-sales-data/), to follow along download OfficeSupplies.csv file [here](https://www.superdatascience.com/tableau/)
  
   
