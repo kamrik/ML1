@@ -1,6 +1,6 @@
 # COMP 3122 - Python AI/ML class
- - [Course outline draft](Outline.md)
- - Slack signup page - https://join.slack.com/t/georgebrowntech/signup
+ * [Course outline on GBC website](https://www.georgebrown.ca/CO/gbc/technology/school-of-computer-technology/courses/COMP/3122/COMP-3122-T127.html) (older outline draft as [md file](Outline.md))
+ * Slack signup page - https://join.slack.com/t/georgebrowntech/signup
  
 ## Book
 Python Data Science Handbook: Essential Tools for Working with Data (by Jake VanderPlas)  
