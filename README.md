@@ -41,4 +41,9 @@ This link skips the first video in the playlist because it talks about installat
    * [Video playlist about Pandas](https://www.dataschool.io/easier-data-analysis-with-pandas/) (watch the first 10 videos - about 1 hour 33 min total)
    * [Notebook & data used in the videos](https://github.com/justmarkham/pandas-videos/) (GitHub) - the notebook has sufficient comments to be very useful without videos as well
    
+## Week 4
+ * Lab -Sept 25
+   * Lab exercise - [exercises/olympic_history.ipynb](exercises/olympic_history.ipynb)
+
+   
   
