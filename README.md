@@ -42,7 +42,7 @@ This link skips the first video in the playlist because it talks about installat
    * [Notebook & data used in the videos](https://github.com/justmarkham/pandas-videos/) (GitHub) - the notebook has sufficient comments to be very useful without videos as well
    
 ## Week 4
- * Lab -Sept 25
+ * Lab - Sept 25
    * Lab exercise - [exercises/olympic_history.ipynb](exercises/olympic_history.ipynb)
 
    
