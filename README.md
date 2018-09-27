@@ -46,6 +46,8 @@ This link skips the first video in the playlist because it talks about installat
  * Lab - Sept 25
    * Lab exercise - [exercises/olympic_history.ipynb](exercises/olympic_history.ipynb)
    * [Slides](lectures/04_week_lab.ipynb)
+ * Lecture - Sept 27
+   * [Slides](lectures/04_week.ipynb) 
 
    
   
