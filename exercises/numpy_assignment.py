@@ -219,14 +219,14 @@ if __name__ == '__main__':
                         [  35.4, 3136 ]])
     s_bias = 1.8
     r_bias = 280
-    adjusted = fix_gauge_bias(gauges, s_bias, r_bias)
+    adjusted = fix_gauge_bias(gauges.copy(), s_bias, r_bias)
     d = gauges - adjusted
     print(OUT, 'fix_gauge_bias(gauges, ...)[0] = %s' % (adjusted[0],) )
     if adjusted.shape == gauges.shape and np.allclose(d[0], [s_bias, r_bias]):
         print(OK)
         total_score += 25
     else:
-        print(ERR, 'expected [%d, %d]' % (s_bias, r_bias))
+        print(ERR, 'expected [%0.2f, %d]' % (gauges[0, 0] - s_bias, gauges[0, 1] - r_bias))
 
     print()
     print('####### Task5: was there a gear shift #############################')
