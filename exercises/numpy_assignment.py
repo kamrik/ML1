@@ -92,7 +92,7 @@ def fix_gauge_bias(car_data, speed_bias, rpm_bias):
 #
 # Write a function that detects if the car switched gears and returns True if it
 # did and False otherwise. Use the following assumptions:
-#  - The car from which this data originates has simple gears with constatant
+#  - The car from which this data originates has simple gears with constant
 #    ratios as described above.
 #  - RPMs/(car speed) ratios for different gears differ by at least 10%. For
 #    example ratios of 75 and 95 are definitely from different gears, while 85.1
