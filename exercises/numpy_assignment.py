@@ -261,7 +261,7 @@ if __name__ == '__main__':
     total_score += task_score
 
     print()
-    print('####### Task6: count gear shifts #############################')
+    print('####### Task6: count gears used #############################')
     task_score = 25
     n1 = count_gears_used(no_shift)
     print(OUT, 'count_gears_used(no_shift) = %s' % (n1,) )
