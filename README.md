@@ -50,5 +50,12 @@ This link skips the first video in the playlist because it talks about installat
  * Lecture - Sept 27
    * [Slides](lectures/04_week.ipynb) 
 
+## Week 5
+ * Lab - Oct 2
+   * Slides TBD
+   * Exercise TBD
+   
+## Week 6
+ * [Home Assignment 1](exercises/numpy_assignment.py) is due Tuesday Oct 9, 23:59
    
   
