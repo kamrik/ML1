@@ -44,8 +44,9 @@ This link skips the first video in the playlist because it talks about installat
 ## Week 4
  * Home assignment - [exercises/numpy_assignment.py](exercises/numpy_assignment.py) (instructions inside)
  * Lab - Sept 25
-   * Lab exercise - [exercises/olympic_history.ipynb](exercises/olympic_history.ipynb)
    * [Slides](lectures/04_week_lab.ipynb)
+   * Lab exercise - [exercises/olympic_history.ipynb](exercises/olympic_history.ipynb)
+     * Solutions - [exercises/olympic_history_solutions.ipynb](exercises/olympic_history_solutions.ipynb)
  * Lecture - Sept 27
    * [Slides](lectures/04_week.ipynb) 
 
