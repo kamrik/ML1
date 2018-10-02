@@ -53,7 +53,7 @@ This link skips the first video in the playlist because it talks about installat
 ## Week 5
  * Lab - Oct 2
    * [Slides](lectures/05_week_lab.ipynb)
-   * Exercise: [exercises/active_satellites.ipynb](exercises/active_satellites.ipynb)
+   * Exercise: [exercises/active_satellites.ipynb](exercises/active_satellites.ipynb) and  [exercises/active_satellites.csv](exercises/active_satellites.csv)
  * Lecture - Oct 4
    * [Slides](lectures/05_week.ipynb)
    
