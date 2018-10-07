@@ -20,6 +20,7 @@ Python Data Science Handbook: Essential Tools for Working with Data (by Jake Van
 ## Week 2
  * Lab - Sept 11
    * Lab exercise - [exercises/numpy_basics.ipynb](exercises/numpy_basics.ipynb)
+     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/numpy_basics_solutions.ipynb)
    * [Slides](lectures/02_week_lab.ipynb)
    * NumPy quick reference: https://github.com/juliangaal/python-cheat-sheet
    * A [playlist of several good short videos introducing different types of plots with matplotlib](https://www.youtube.com/watch?v=zl5qPnqps8M&index=2&list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl) 
@@ -33,8 +34,9 @@ This link skips the first video in the playlist because it talks about installat
    
 ## Week 3
  * Lab - Sept 18
-   * Lab exercise - [exercises/plotting_basics.ipynb](exercises/plotting_basics.ipynb) (it uses [exercises/OshawaWeather2016.csv](exercises/OshawaWeather2016.csv))
    * [Slides](lectures/03_week_lab.ipynb)
+   * Lab exercise - [exercises/plotting_basics.ipynb](exercises/plotting_basics.ipynb) (it uses [exercises/OshawaWeather2016.csv](exercises/OshawaWeather2016.csv))
+     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/plotting_basics_solutions.ipynb)
  * Lecture - Sept 20
    * [Slides](lectures/03_week.ipynb)
  * Home reading & videos (important!)
