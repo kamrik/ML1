@@ -61,5 +61,10 @@ This link skips the first video in the playlist because it talks about installat
    
 ## Week 6
  * [Home Assignment 1](exercises/numpy_assignment.py) is due Tuesday Oct 9, 23:59
+ * Lab - Oct 9
+   * [Slides](lectures/06_week_lab.ipynb)
+   * Exercise: [exercises/week6_lab.ipynb](exercises/week6_lab.ipynb)
+ * Lecture - Oct 11
+   * [Slides](lectures/06_week.ipynb)
    
   
