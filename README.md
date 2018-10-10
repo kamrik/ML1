@@ -56,6 +56,7 @@ This link skips the first video in the playlist because it talks about installat
  * Lab - Oct 2
    * [Slides](lectures/05_week_lab.ipynb)
    * Exercise: [exercises/active_satellites.ipynb](exercises/active_satellites.ipynb) and  [exercises/active_satellites.csv](exercises/active_satellites.csv)
+     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/active_satellites_solutions.ipynb)
  * Lecture - Oct 4
    * [Slides](lectures/05_week.ipynb)
    
@@ -64,6 +65,7 @@ This link skips the first video in the playlist because it talks about installat
  * Lab - Oct 9
    * [Slides](lectures/06_week_lab.ipynb)
    * Exercise: [exercises/week6_lab.ipynb](exercises/week6_lab.ipynb)
+     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/week6_lab_solutions.ipynb)
  * Lecture - Oct 11
    * [Slides](lectures/06_week.ipynb)
    
