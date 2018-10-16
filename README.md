@@ -71,6 +71,6 @@ This link skips the first video in the playlist because it talks about installat
 ## Week 7
  * Lab - Oct 16
  * Lecture - Oct 18, MID-TERM
-## Week 8 - Intersession Week (Oct 22-18)
+## Week 8 - Intersession Week (Oct 22-28)
    
   
