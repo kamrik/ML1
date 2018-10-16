@@ -68,5 +68,9 @@ This link skips the first video in the playlist because it talks about installat
      * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/week6_lab_solutions.ipynb)
  * Lecture - Oct 11
    * [Slides](lectures/06_week.ipynb)
+## Week 7
+ * Lab - Oct 16
+ * Lecture - Oct 18, MID-TERM
+## Week 8 - Intersession Week (Oct 22-18)
    
   
