@@ -72,5 +72,10 @@ This link skips the first video in the playlist because it talks about installat
  * Lab - Oct 16
  * Lecture - Oct 18, MID-TERM
 ## Week 8 - Intersession Week (Oct 22-28)
-   
+
+# Part 2 - scikit-learn
+ * scikit-learn is already installed if you use Anaconda Python
+ * [Video playlist](https://www.dataschool.io/machine-learning-with-scikit-learn/) and [corresponding notebooks](https://github.com/justmarkham/scikit-learn-videos)  (**highly recommended**)
+   * Skim through this [post about changes in scikit-learn since the videos were recorded](https://www.dataschool.io/how-to-update-your-scikit-learn-code-for-2018/)
+ * Book [chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/#5.-Machine-Learning)
   
