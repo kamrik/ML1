@@ -86,3 +86,9 @@ This link skips the first video in the playlist because it talks about installat
    * Skim through this [post about changes in scikit-learn since the videos were recorded](https://www.dataschool.io/how-to-update-your-scikit-learn-code-for-2018/)
  * Book [chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/#5.-Machine-Learning)
   
+## Week 9
+ * Lab - Oct 30
+   * [Slides](lectures/09_week_lab.ipynb)
+ * Lecture - Nov 1
+   * [Slides](lectures/09_week.ipynb)
+ * [Linear regression example](https://www.youtube.com/watch?v=Rrpk-fTG5Dw) (video)
