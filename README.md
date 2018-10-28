@@ -27,15 +27,19 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
    * Lab exercise - [exercises/numpy_basics.ipynb](exercises/numpy_basics.ipynb)
      * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/numpy_basics_solutions.ipynb)
    * [Slides](lectures/02_week_lab.ipynb)
-   * NumPy quick reference: https://github.com/juliangaal/python-cheat-sheet
-   * A [playlist of several good short videos introducing different types of plots with matplotlib](https://www.youtube.com/watch?v=zl5qPnqps8M&index=2&list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl) 
-This link skips the first video in the playlist because it talks about installation and you already have matplotlib installed via Anaconda.
-   * [Basic plotting tutorial on matplotlib website](https://matplotlib.org/users/pyplot_tutorial.html)
  * Lecture - Sept 13
    * [Slides](lectures/02_week.ipynb) (not too many of them, most of the lecture is live / whiteboard) 
    * [Whiteboard screenshot](lectures/02_week_whiteboard.png) (png image, for full resolution click "Download" above the image)
    * [IPython transcript](lectures/02_week_ipython_transcript.py) (What the instrucor was typing - no output. Not usefully runnable as a single Python file)
+ * Links
+   * NumPy
+     * Quick reference: https://github.com/juliangaal/python-cheat-sheet
+     * Videos: [video 1](https://www.youtube.com/watch?v=BLGo3PXoX1A), [video 2](https://www.youtube.com/watch?v=7YvKhcs7sb0) - from the [Python Programmer YouTube channel](https://www.youtube.com/channel/UC68KSmHePPePCjW4v57VPQg)
+   * Matplotlib
+     * A [playlist of several good short videos introducing different types of plots with matplotlib](https://www.youtube.com/watch?v=zl5qPnqps8M&index=2&list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl) This link skips the first video in the playlist because it talks about installation and you already have matplotlib installed via Anaconda.
+     * [Basic plotting tutorial on matplotlib website](https://matplotlib.org/users/pyplot_tutorial.html)
    * [Facts and Myths about Python names and values](https://www.youtube.com/watch?v=_AEJHKGk9ns) - by Ned Batchelder at PyCon 2015 (video, 25min)
+ 
    
 ## Week 3
  * Lab - Sept 18
