@@ -10,7 +10,12 @@ Python Data Science Handbook: Essential Tools for Working with Data (by Jake Van
 ## Tools
  - Anaconda download page: https://www.anaconda.com/download/ (Use the Python 3.6 version)
  - Basic tutorial about git and GitHub: [video](https://www.youtube.com/watch?v=0fKg7e37bQE) (skip it if you used git before)
- 
+
+## Prerequisites
+This course assumes reasonable knowledge of Python, if you haven't used Python before, consider one of the following resources:
+- [Codecademy's Python course](https://www.codecademy.com/learn/learn-python) - browser-based, tons of exercises
+- [DataQuest](https://www.dataquest.io/) - browser-based, teaches Python in the context of data science
+- [CheckIO](https://checkio.org/) - a good collection of exercises to try when you are comfortable with the basics
 
 ## Week 1
    * [Lab notebook - Sept 4th](lectures/01_week_lab.ipynb)
