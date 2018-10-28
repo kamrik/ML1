@@ -55,7 +55,9 @@ This link skips the first video in the playlist because it talks about installat
    * Lab exercise - [exercises/olympic_history.ipynb](exercises/olympic_history.ipynb)
      * Solutions - [exercises/olympic_history_solutions.ipynb](exercises/olympic_history_solutions.ipynb)
  * Lecture - Sept 27
-   * [Slides](lectures/04_week.ipynb) 
+   * [Slides](lectures/04_week.ipynb)
+ * More videos about Pandas
+   * [Pandas best practices](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6) - video playlist
 
 ## Week 5
  * Lab - Oct 2
