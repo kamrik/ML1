@@ -93,6 +93,7 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
 ## Week 9
  * Lab - Oct 30
    * [Slides](lectures/09_week_lab.ipynb)
+   * Exercise: [exercises/mpg_regression.ipynb](exercises/mpg_regression.ipynb)
  * Lecture - Nov 1
    * [Slides](lectures/09_week.ipynb)
  * Links
