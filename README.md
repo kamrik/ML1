@@ -96,6 +96,7 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
    * Exercise: [exercises/mpg_regression.ipynb](exercises/mpg_regression.ipynb)
  * Lecture - Nov 1
    * [Slides](lectures/09_week.ipynb) (alternative link [via nbviewer](http://nbviewer.jupyter.org/github/kamrik/ML1/blob/master/lectures/09_week.ipynb))
+   * [Whiteboard screenshot](lectures/knn_whiteboard.png)
  * Links
    * [So Why Is It Called "Regression," Anyway?](http://blog.minitab.com/blog/statistics-and-quality-data-analysis/so-why-is-it-called-regression-anyway)
    * [Linear regression example - Boston housing dataset](https://www.youtube.com/watch?v=Rrpk-fTG5Dw) (video)
