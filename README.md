@@ -101,3 +101,9 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
    * [So Why Is It Called "Regression," Anyway?](http://blog.minitab.com/blog/statistics-and-quality-data-analysis/so-why-is-it-called-regression-anyway)
    * [Linear regression example - Boston housing dataset](https://www.youtube.com/watch?v=Rrpk-fTG5Dw) (video)
    * If you are curious about the math behind linear regression (slow): [Khan Academy - least squares fit](https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap#least-squares-regression)
+   
+## Week 10
+ * Lab - Nov 6
+   * [Slides](lectures/10_week_lab.ipynb)
+   * Exercise: [exercises/glass_identification.ipynb](exercises/glass_identification.ipynb) and [exercises/glass.csv](exercises/glass.csv)
+   
