@@ -106,6 +106,7 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
  * Lab - Nov 6
    * [Slides](lectures/10_week_lab.ipynb)
    * Exercise: [exercises/glass_identification.ipynb](exercises/glass_identification.ipynb) and [exercises/glass.csv](exercises/glass.csv)
- * Lectire - Nov 8
+ * Lecture - Nov 8
    * [Slides](lectures/10_week.ipynb) (alternative link [via nbviewer](http://nbviewer.jupyter.org/github/kamrik/ML1/blob/master/lectures/10_week.ipynb))
+   * Guest lecture by Sahand Saba, intro to NLP - [notebook](lectures/10_week_guest_nlp.ipynb)
    
