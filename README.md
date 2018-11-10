@@ -94,6 +94,7 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
  * Lab - Oct 30
    * [Slides](lectures/09_week_lab.ipynb)
    * Exercise: [exercises/mpg_regression.ipynb](exercises/mpg_regression.ipynb)
+     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/mpg_regression_solutions.ipynb)
  * Lecture - Nov 1
    * [Slides](lectures/09_week.ipynb) (alternative link [via nbviewer](http://nbviewer.jupyter.org/github/kamrik/ML1/blob/master/lectures/09_week.ipynb))
    * [Whiteboard screenshot](lectures/knn_whiteboard.png)
@@ -106,6 +107,7 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
  * Lab - Nov 6
    * [Slides](lectures/10_week_lab.ipynb)
    * Exercise: [exercises/glass_identification.ipynb](exercises/glass_identification.ipynb) and [exercises/glass.csv](exercises/glass.csv)
+     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/glass_identification_solutions.ipynb)
  * Lecture - Nov 8
    * [Slides](lectures/10_week.ipynb) (alternative link [via nbviewer](http://nbviewer.jupyter.org/github/kamrik/ML1/blob/master/lectures/10_week.ipynb))
    * Intro to NLP - guest lecture by Sahand Saba - [notebook](lectures/10_week_guest_nlp.ipynb)
