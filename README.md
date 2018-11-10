@@ -112,3 +112,6 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
    * [Slides](lectures/10_week.ipynb) (alternative link [via nbviewer](http://nbviewer.jupyter.org/github/kamrik/ML1/blob/master/lectures/10_week.ipynb))
    * Intro to NLP - guest lecture by Sahand Saba - [notebook](lectures/10_week_guest_nlp.ipynb)
    
+ ## Home assignment 2
+  * [exercises/home_assignment2.py](exercises/home_assignment2.py) (all instructions inside)
+   
