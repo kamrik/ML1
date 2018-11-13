@@ -114,4 +114,7 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
    
  ## Home assignment 2
   * [exercises/home_assignment2.py](exercises/home_assignment2.py) (all instructions inside)
-   
+ 
+ ## Week 11
+ * Lab - Nov 13
+   * Exercise: [exercises/yelp.ipynb](exercises/yelp.ipynb) and [exercises/yelp.csv](exercises/yelp.csv)
