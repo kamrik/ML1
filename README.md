@@ -118,3 +118,6 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
  ## Week 11
  * Lab - Nov 13
    * Exercise: [exercises/yelp.ipynb](exercises/yelp.ipynb) and [exercises/yelp.csv](exercises/yelp.csv)
+ * Lecture - Nov 15
+   * [Slides](lectures/11_week.ipynb) (alternative link [via nbviewer](http://nbviewer.jupyter.org/github/kamrik/ML1/blob/master/lectures/11_week.ipynb))
+   * [Intuitive Sensitivity & Specificity](https://www.youtube.com/watch?v=U4_3fditnWg) (video, 9min)
