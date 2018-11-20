@@ -122,3 +122,6 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
    * [Slides](lectures/11_week.ipynb) (alternative link [via nbviewer](http://nbviewer.jupyter.org/github/kamrik/ML1/blob/master/lectures/11_week.ipynb))
    * [Intuitive Sensitivity & Specificity](https://www.youtube.com/watch?v=U4_3fditnWg) (video, 9min)
    * [The tradeoff between sensitivity and specificity](https://www.youtube.com/watch?v=vtYDyGGeQyo) (video, 12min)
+## Week 12
+ * Lab - Nov 20
+   * Exercise: [exercises/credit_score.ipynb](exercises/credit_score.ipynb) - data is not in this repo.
