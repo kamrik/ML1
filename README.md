@@ -125,3 +125,5 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
 ## Week 12
  * Lab - Nov 20
    * Exercise: [exercises/credit_score.ipynb](exercises/credit_score.ipynb) - data is not in this repo.
+ * Lecture - Nov 22
+   * [Slides](lectures/12_week.ipynb) (alternative link [via nbviewer](http://nbviewer.jupyter.org/github/kamrik/ML1/blob/master/lectures/12_week.ipynb))
