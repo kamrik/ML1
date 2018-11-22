@@ -127,3 +127,7 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
    * Exercise: [exercises/credit_score.ipynb](exercises/credit_score.ipynb) - data is not in this repo.
  * Lecture - Nov 22
    * [Slides](lectures/12_week.ipynb) (alternative link [via nbviewer](http://nbviewer.jupyter.org/github/kamrik/ML1/blob/master/lectures/12_week.ipynb))
+   
+## Home assignment 3
+ * See instructions in [exercises/home_assignment3.md](exercises/home_assignment3.md)
+ 
