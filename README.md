@@ -134,3 +134,22 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
 ## Home assignment 3
  * See instructions in [exercises/home_assignment3.md](exercises/home_assignment3.md)
  
+## Final exam prep advice
+ * Same format as the mid-term
+ * The exam will include material from the entire semester - do not neglect NumPy and Pandas basics
+ * Focus on lab exercises, exercises are always more important than reading
+ * Watch the videos linked from weekly sections above (or read the associated notebooks)
+ * We touched on all five chapters of the book by now. If the book works well for you, it's a great source to study from, but videos do cover all of the material as well.
+
+<!--
+## Week 13
+ * Lab - Nov 27
+ * Lecture - Nov 29
+## Week 14
+ * Lab - Dec 4
+ * Lecture - Dec 6
+## Week 15
+ * Lab - Dec 11
+ * Lecture - Dec 13 - FINAL EXAM
+ -->
+ 
