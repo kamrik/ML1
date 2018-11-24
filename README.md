@@ -118,6 +118,7 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
  ## Week 11
  * Lab - Nov 13
    * Exercise: [exercises/yelp.ipynb](exercises/yelp.ipynb) and [exercises/yelp.csv](exercises/yelp.csv)
+     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/yelp_solutions.ipynb)
  * Lecture - Nov 15
    * [Slides](lectures/11_week.ipynb) (alternative link [via nbviewer](http://nbviewer.jupyter.org/github/kamrik/ML1/blob/master/lectures/11_week.ipynb))
    * [Intuitive Sensitivity & Specificity](https://www.youtube.com/watch?v=U4_3fditnWg) (video, 9min)
@@ -125,6 +126,7 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
 ## Week 12
  * Lab - Nov 20
    * Exercise: [exercises/credit_score.ipynb](exercises/credit_score.ipynb) - data is not in this repo.
+     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/credit_score_solutions.ipynb)
  * Lecture - Nov 22
    * [Slides](lectures/12_week.ipynb) (alternative link [via nbviewer](http://nbviewer.jupyter.org/github/kamrik/ML1/blob/master/lectures/12_week.ipynb))
    * [Making sense of the confusion matrix](https://www.youtube.com/watch?v=8Oog7TXHvFY) (video, 35min)
