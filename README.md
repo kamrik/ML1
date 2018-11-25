@@ -151,5 +151,11 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
 ## Week 15
  * Lab - Dec 11
  * Lecture - Dec 13 - FINAL EXAM
+## Epilogue
+ * Next semster course
+ * [The Map of Machine Learning](http://work.caltech.edu/library/181.html) - video
+ * If you are interested in a more theoretically midned treatment of statistical ML
+   * Book: [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+   * [Learning From Data](http://work.caltech.edu/telecourse.html) a course taught by Caltech Professor Yaser Abu-Mostafa 
  -->
  
