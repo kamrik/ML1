@@ -141,10 +141,12 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
  * Watch the videos linked from weekly sections above (or read the associated notebooks)
  * We touched on all five chapters of the book by now. If the book works well for you, it's a great source to study from, but videos do cover all of the material as well.
 
-<!--
 ## Week 13
  * Lab - Nov 27
+   * Exercise: [exercises/mpg_revisited.ipynb](exercises/mpg_revisited.ipynb)
  * Lecture - Nov 29
+   * [Slides](lectures/13_week.ipynb) (alternative link [via nbviewer](http://nbviewer.jupyter.org/github/kamrik/ML1/blob/master/lectures/13_week.ipynb))
+<!--
 ## Week 14
  * Lab - Dec 4
  * Lecture - Dec 6
