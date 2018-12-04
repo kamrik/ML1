@@ -146,10 +146,13 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
    * Exercise: [exercises/mpg_revisited.ipynb](exercises/mpg_revisited.ipynb)
  * Lecture - Nov 29
    * [Slides](lectures/13_week.ipynb) (alternative link [via nbviewer](http://nbviewer.jupyter.org/github/kamrik/ML1/blob/master/lectures/13_week.ipynb))
-<!--
+
 ## Week 14
  * Lab - Dec 4
+   * Exercise: [exercises/bikes.ipynb](exercises/bikes.ipynb)  (CSV file in exercises folder)
+   * Or continue with home assignment 3
  * Lecture - Dec 6
+<!--
 ## Week 15
  * Lab - Dec 11
  * Lecture - Dec 13 - FINAL EXAM
