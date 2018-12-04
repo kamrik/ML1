@@ -7,7 +7,12 @@ Kaggle competition.
  - Once you join the competition, you can make a submission by uploading a CSV file with your predictions to Kaggle using the big blue "Submit Predictions" button (see screenshot below).
  - There is no limit to how many submissions can be made, the best one will be shown on the [Leaderboard](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard)
  - To get a passing grade, you must have a submission on the Leaderboard with a score below 0.3 (which can be done by following the steps from the MPG regression lab)
- - Lower score will get you a better grade (exact score to grade scale will be published soon)
+ - Lower score will get you a better grade
+   - 100 for 0.2 or better
+   - 60 for 0.3
+   - Scaled linearly between 0.3 and 0.2
+     - `grade = 100 * (1.8 - score * 4)`
+   - 10 for a valid submission with score above 0.3
  - Submit your work by sending me an email. The email should contain the following:
    1. Student ID
    1. The link to your Kaggle profile, looks like this: https://www.kaggle.com/kamrik
