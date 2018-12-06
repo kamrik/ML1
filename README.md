@@ -152,9 +152,9 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
    * Exercise: [exercises/bikes.ipynb](exercises/bikes.ipynb)  (CSV file in exercises folder)
    * Or continue with home assignment 3
  * Lecture - Dec 6
-<!--
+   * Review
 ## Week 15
- * Lab - Dec 11
+ * Lab - Dec 11 - works as office hours in c410
  * Lecture - Dec 13 - FINAL EXAM
 ## Epilogue
  * Next semster course
@@ -162,5 +162,5 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
  * If you are interested in a more theoretically midned treatment of statistical ML
    * Book: [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
    * [Learning From Data](http://work.caltech.edu/telecourse.html) a course taught by Caltech Professor Yaser Abu-Mostafa 
- -->
+
  
