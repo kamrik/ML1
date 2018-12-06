@@ -157,7 +157,7 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
  * Lab - Dec 11 - works as office hours in c410
  * Lecture - Dec 13 - FINAL EXAM
 ## Epilogue
- * Next semster course
+ * Next semster course - https://github.com/kamrik/ML2
  * [The Map of Machine Learning](http://work.caltech.edu/library/181.html) - video
  * If you are interested in a more theoretically midned treatment of statistical ML
    * Book: [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
