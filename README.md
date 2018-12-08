@@ -156,7 +156,7 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
 ## Week 15
  * Lab - Dec 11 - works as office hours in c410
 ## FINAL EXAM - Dec 13
- * You are allowed to bring one paper sheet (up to Letter/A4 size) of reference you prepared _yourself_. Use it wisely, most people benefit from the process of preparing the page, but not so much from using it during the exam. Copying other people's reference pages is well known to be NOT helpful.
+ * You are allowed to bring one sheet of paper (up to Letter/A4 size) of reference you prepared _yourself_. Use it wisely, most people benefit from the process of preparing the page, but not so much from using it during the exam
  * Otherwise same format as the mid-term
  * Material from the entire semester will be covered including (but not limited to) NumPy, Pandas, plotting and sklearn
 ## Epilogue
