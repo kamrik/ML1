@@ -155,7 +155,10 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
    * Review
 ## Week 15
  * Lab - Dec 11 - works as office hours in c410
- * Lecture - Dec 13 - FINAL EXAM
+## FINAL EXAM - Dec 13
+ * You are allowed to bring one paper sheet (up to Letter/A4 size) of reference you prepared _yourself_. Use it wisely, most people benefit from the process of preparing the page, but not so much from using it during the exam. Copying other people's reference pages is well known to be NOT helpful.
+ * Otherwise same format as the mid-term
+ * Material from the entire semester will be covered including (but not limited to) NumPy, Pandas, plotting and sklearn
 ## Epilogue
  * Next semster course - https://github.com/kamrik/ML2
  * [The Map of Machine Learning](http://work.caltech.edu/library/181.html) - video
