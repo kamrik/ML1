@@ -150,6 +150,7 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
 ## Week 14
  * Lab - Dec 4
    * Exercise: [exercises/bikes.ipynb](exercises/bikes.ipynb)  (CSV file in exercises folder)
+     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/bikes_solutions.ipynb)
    * Or continue with home assignment 3
  * Lecture - Dec 6
    * Review
