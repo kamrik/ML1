@@ -144,6 +144,7 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
 ## Week 13
  * Lab - Nov 27
    * Exercise: [exercises/mpg_revisited.ipynb](exercises/mpg_revisited.ipynb)
+     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/mpg_revisited_solutions.ipynb)
  * Lecture - Nov 29
    * [Slides](lectures/13_week.ipynb) (alternative link [via nbviewer](http://nbviewer.jupyter.org/github/kamrik/ML1/blob/master/lectures/13_week.ipynb))
 
