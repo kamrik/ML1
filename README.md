@@ -163,6 +163,7 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
  * Material from the entire semester will be covered including (but not limited to) NumPy, Pandas, plotting and sklearn
 ## Epilogue
  * Next semster course - https://github.com/kamrik/ML2
+ * Kevin's video - [How do I stay up-to-date as a data scientist?](https://www.youtube.com/watch?v=-9X_4lijXZI)
  * [The Map of Machine Learning](http://work.caltech.edu/library/181.html) - video
  * If you are interested in a more theoretically midned treatment of statistical ML
    * Book: [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
