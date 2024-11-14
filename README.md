@@ -25,7 +25,6 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
 ## Week 2
  * Lab - Sept 11
    * Lab exercise - [exercises/numpy_basics.ipynb](exercises/numpy_basics.ipynb)
-     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/numpy_basics_solutions.ipynb)
    * [Slides](lectures/02_week_lab.ipynb)
  * Lecture - Sept 13
    * [Slides](lectures/02_week.ipynb) (not too many of them, most of the lecture is live / whiteboard) 
@@ -45,7 +44,6 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
  * Lab - Sept 18
    * [Slides](lectures/03_week_lab.ipynb)
    * Lab exercise - [exercises/plotting_basics.ipynb](exercises/plotting_basics.ipynb) (it uses [exercises/OshawaWeather2016.csv](exercises/OshawaWeather2016.csv))
-     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/plotting_basics_solutions.ipynb)
  * Lecture - Sept 20
    * [Slides](lectures/03_week.ipynb)
  * Home reading & videos (important!)
@@ -57,7 +55,6 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
  * Lab - Sept 25
    * [Slides](lectures/04_week_lab.ipynb)
    * Lab exercise - [exercises/olympic_history.ipynb](exercises/olympic_history.ipynb)
-     * Solutions - [exercises/olympic_history_solutions.ipynb](exercises/olympic_history_solutions.ipynb)
  * Lecture - Sept 27
    * [Slides](lectures/04_week.ipynb)
  * More videos about Pandas
@@ -67,7 +64,6 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
  * Lab - Oct 2
    * [Slides](lectures/05_week_lab.ipynb)
    * Exercise: [exercises/active_satellites.ipynb](exercises/active_satellites.ipynb) and  [exercises/active_satellites.csv](exercises/active_satellites.csv)
-     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/active_satellites_solutions.ipynb)
  * Lecture - Oct 4
    * [Slides](lectures/05_week.ipynb)
    
@@ -76,7 +72,6 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
  * Lab - Oct 9
    * [Slides](lectures/06_week_lab.ipynb)
    * Exercise: [exercises/week6_lab.ipynb](exercises/week6_lab.ipynb)
-     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/week6_lab_solutions.ipynb)
  * Lecture - Oct 11
    * [Slides](lectures/06_week.ipynb)
 ## Week 7
@@ -94,7 +89,6 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
  * Lab - Oct 30
    * [Slides](lectures/09_week_lab.ipynb)
    * Exercise: [exercises/mpg_regression.ipynb](exercises/mpg_regression.ipynb)
-     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/mpg_regression_solutions.ipynb)
  * Lecture - Nov 1
    * [Slides](lectures/09_week.ipynb) (alternative link [via nbviewer](http://nbviewer.jupyter.org/github/kamrik/ML1/blob/master/lectures/09_week.ipynb))
    * [Whiteboard screenshot](lectures/knn_whiteboard.png)
@@ -107,7 +101,6 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
  * Lab - Nov 6
    * [Slides](lectures/10_week_lab.ipynb)
    * Exercise: [exercises/glass_identification.ipynb](exercises/glass_identification.ipynb) and [exercises/glass.csv](exercises/glass.csv)
-     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/glass_identification_solutions.ipynb)
  * Lecture - Nov 8
    * [Slides](lectures/10_week.ipynb) (alternative link [via nbviewer](http://nbviewer.jupyter.org/github/kamrik/ML1/blob/master/lectures/10_week.ipynb))
    * Intro to NLP - guest lecture by Sahand Saba - [notebook](lectures/10_week_guest_nlp.ipynb)
@@ -118,7 +111,6 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
  ## Week 11
  * Lab - Nov 13
    * Exercise: [exercises/yelp.ipynb](exercises/yelp.ipynb) and [exercises/yelp.csv](exercises/yelp.csv)
-     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/yelp_solutions.ipynb)
  * Lecture - Nov 15
    * [Slides](lectures/11_week.ipynb) (alternative link [via nbviewer](http://nbviewer.jupyter.org/github/kamrik/ML1/blob/master/lectures/11_week.ipynb))
    * [Intuitive Sensitivity & Specificity](https://www.youtube.com/watch?v=U4_3fditnWg) (video, 9min)
@@ -126,7 +118,6 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
 ## Week 12
  * Lab - Nov 20
    * Exercise: [exercises/credit_score.ipynb](exercises/credit_score.ipynb) - data is not in this repo.
-     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/credit_score_solutions.ipynb)
  * Lecture - Nov 22
    * [Slides](lectures/12_week.ipynb) (alternative link [via nbviewer](http://nbviewer.jupyter.org/github/kamrik/ML1/blob/master/lectures/12_week.ipynb))
    * [Making sense of the confusion matrix](https://www.youtube.com/watch?v=8Oog7TXHvFY) (video, 35min)
@@ -144,14 +135,12 @@ This course assumes reasonable knowledge of Python, if you haven't used Python b
 ## Week 13
  * Lab - Nov 27
    * Exercise: [exercises/mpg_revisited.ipynb](exercises/mpg_revisited.ipynb)
-     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/mpg_revisited_solutions.ipynb)
  * Lecture - Nov 29
    * [Slides](lectures/13_week.ipynb) (alternative link [via nbviewer](http://nbviewer.jupyter.org/github/kamrik/ML1/blob/master/lectures/13_week.ipynb))
 
 ## Week 14
  * Lab - Dec 4
    * Exercise: [exercises/bikes.ipynb](exercises/bikes.ipynb)  (CSV file in exercises folder)
-     * [Solutions](http://nbviewer.jupyter.org/url/kamrik.org/ML1/bikes_solutions.ipynb)
    * Or continue with home assignment 3
  * Lecture - Dec 6
    * Review
